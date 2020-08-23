@@ -6,9 +6,13 @@ Consider the data analysis you did in A3. Using either SQL queries, stored proce
 (name top 5 hot counties, number of cases, case delta, date)
 
 Imported Data
+
 ![Image of Tests](/images/window.png)
+
 ![Image of Tests](/images/importeddata.png)
+
 Sorted county with delta
+
 ![Image of Tests](/images/hot Counties on the last date.png)
 
 ``` sql
